@@ -1,0 +1,55 @@
+aid: maven-clinic
+url: https://raw.githubusercontent.com/api-evangelist/maven-clinic/refs/heads/main/apis.yml
+name: Maven Clinic
+type: Index
+kind: company
+description: >-
+  Maven Clinic is a virtual clinic for women's and family health serving 2,300+
+  employers and 28 million covered lives globally. Programs span fertility and
+  family building, maternity and newborn care, parenting and pediatrics,
+  menopause and midlife health, GLP-1 and hormone care, and a 30+ specialty
+  virtual clinic. Maven sells primarily B2B through employer benefits and
+  health plan partnerships, with go-to-market surfaces for employers, health
+  plans, and benefits consultants. Maven's care model is validated by 40+
+  peer-reviewed studies and Milliman-audited outcomes. No public developer
+  API has been identified - partner integrations are handled via gated
+  employer and health plan onboarding. This entry catalogs the company
+  surface for the API Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Femtech
+  - Women's Health
+  - Family Health
+  - Virtual Care
+  - Telehealth
+  - Fertility
+  - Maternity
+  - Menopause
+  - Employer Benefits
+  - Health Plans
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.mavenclinic.com/
+  - type: Employers
+    url: https://www.mavenclinic.com/for-employers
+  - type: HealthPlans
+    url: https://www.mavenclinic.com/for-health-plans
+  - type: Consultants
+    url: https://www.mavenclinic.com/for-consultants
+  - type: Research
+    url: https://www.mavenclinic.com/research
+  - type: Contact
+    url: https://www.mavenclinic.com/contact
+  - type: Careers
+    url: https://www.mavenclinic.com/careers
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mavenclinic/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
