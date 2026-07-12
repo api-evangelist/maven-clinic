@@ -1,0 +1,13 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://www.mavenclinic.com/security
+url: https://www.mavenclinic.com/security
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://www.mavenclinic.com/security
+  keywords:
+  - soc 2
+  - hipaa

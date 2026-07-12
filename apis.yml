@@ -34,6 +34,12 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/maven-clinic-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/maven-clinic-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/maven-clinic-domain-security.yml
   - type: Website
     url: https://www.mavenclinic.com/
   - type: Employers
@@ -50,6 +56,8 @@ common:
     url: https://www.mavenclinic.com/careers
   - type: LinkedIn
     url: https://www.linkedin.com/company/mavenclinic/
+  - type: Blog
+    url: https://www.mavenclinic.com/blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
