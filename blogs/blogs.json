@@ -1,0 +1,21 @@
+{
+  "repo": "maven-clinic",
+  "feeds": [
+    {
+      "source": "https://www.mavenclinic.com/blog",
+      "feed_url": "https://www.mavenclinic.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.linkedin.com/company/mavenclinic/",
+      "feed_url": "https://www.linkedin.com/company/mavenclinic/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 12
+}
