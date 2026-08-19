@@ -42,7 +42,7 @@ tags:
   - Menopause
   - Employer Benefits
   - Health Plans
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: TrustCenter
